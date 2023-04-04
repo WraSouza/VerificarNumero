@@ -5,8 +5,6 @@ int numeroMaximo = Int32.Parse(Console.ReadLine());
 int resultado = 0;
 int count = 0;
 
-//string valor = numeroInformado[2].ToString();
-
 for(int i=1000; i < 9999; i++)
 {
     string algarismo = i.ToString();
