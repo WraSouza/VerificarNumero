@@ -31,6 +31,8 @@ for(int i=1000; i < 9999; i++)
     resultado = 0;
 }
 
+Console.WriteLine("Fim....");
+
 Console.ReadKey();
 
 
